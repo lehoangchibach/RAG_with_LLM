@@ -1,0 +1,129 @@
+[
+   {
+      "attribution": "u/ttkciar",
+      "description": "Create a description of a fantastical setting within Krangath",
+      "name": "creativity:arzoth",
+      "prompt_text": "This is Krangath: In the dark, vampires and liches grow strong. Tunnel worms gnaw incessantly, boring winding tunnels throughout Gehenna's frozen granite. Trolls huddle in caves while barghests and daemons vie for supremacy. Such is the desolation. No light touches this place. There are no sources of heat. None willingly reside here, except the undead, who thrive on its negative energies. No sun shines on this cursed land. No wind disturbs its crevices. No plants, vegetation, trees, bushes, shrubs, or thorns can grow on the surface, though some fungus and lichens grow in its caves. There is no day in Krangath, only eternal night. There is no tectonic or volcanic activity in Krangath.\\nThe Blackthorn Mountains of Krangath are dark and craggy, jagged like the teeth of a terrible beast. The Bloodfen Steppes of Krangath are an acidic, frozen mud plain, reeking of sulfur and old decay. Horrible carnivorous insects hide in the Bloodfen's warrens, quick to bite a passing ankle. Between the Blackthorn Mountains and the Bloodfen Steppes are the Arzoth Hills. Describe the Arzoth Hills."
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Compose a KMFDM song",
+      "name": "creativity:song_kmfdm",
+      "prompt_text": "Write a dark song in the style of KMFDM."
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Compose a Sisters of Mercy song",
+      "name": "creativity:song_som",
+      "prompt_text": "Write a dark song in the style of Sisters of Mercy."
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Compose a Halestorm song",
+      "name": "creativity:song_halestorm",
+      "prompt_text": "Write a dark song in the style of Halestorm."
+   },
+   {
+      "attribution": "anon",
+      "description": "React to a silly joke posed as a question",
+      "name": "humor:noisy_oyster",
+      "prompt_text": "What kind of a noise annoys a noisy oyster?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Solve a units conversion problem",
+      "name": "math:yarn_units",
+      "prompt_text": "How much does 600 feet of worsted weight yarn weigh?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Compare the myths of Lucifer and Prometheus",
+      "name": "analysis:lucifer",
+      "prompt_text": "Lucifer means light bringer, and enticed Adam and Eve to eat the fruit of knowledge. Prometheus brought fire to humanity, a metaphor for knowledge. Both were punished by imprisonment and eternal torture. Do you think the biblical Lucifer is a retelling of the myth of Prometheus?"
+   },
+   {
+      "attribution": "u/Thalesian",
+      "description": "Explain fallacious reasoning about correlating foot size to intelligence",
+      "name": "analysis:foot_intelligence",
+      "prompt_text": "A psychologist goes to a village in Iowa and decides to compare foot size to intelligence. He notes that in general, as foot size increases, so does intelligence. How can this be?"
+   },
+   {
+      "attribution": "u/Putrumpador",
+      "description": "Word problem involving math and common sense, counting the siblings of Sally",
+      "name": "reason:sally_siblings",
+      "prompt_text": "Sally is a girl. She has three brothers. Each of her brothers has the same two sisters. How many sisters does Sally have?"
+   },
+   {
+      "attribution": "u/IngwiePhoenix",
+      "description": "Coding task, writing a program in \"make\" to convert image formats",
+      "name": "coding:jpeg_makefile",
+      "prompt_text": "Write a Makefile to convert JPEG images to PNG."
+   },
+   {
+      "attribution": "https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl",
+      "description": "Word problem involving math and common sense, describing a breakfast plan which meets criteria for content and calories",
+      "name": "analysis:breakfast",
+      "prompt_text": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories?"
+   },
+   {
+      "attribution": "https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl",
+      "description": "Word problem involving common sense, describing a birthday planning checklist",
+      "name": "analysis:birthday",
+      "prompt_text": "Create a birthday planning checklist."
+   },
+   {
+      "attribution": "https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl",
+      "description": "Word problem involving knowledge and common sense, describing an apple pie recipe",
+      "name": "analysis:apple_pie",
+      "prompt_text": "Give me a cooking recipe for an apple pie."
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Word problem involving nuclear physics and math, describing neutron reflection",
+      "name": "science:neutron_reflection",
+      "prompt_text": "What percentage of 5.0 MeV neutrons will be reflected by a 1.0 cm thickness of tungsten carbide, if they strike its flat surface perpendicularly?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Word problem involving material physics and math, describing flexural loading of steel I-beam",
+      "name": "science:flexural_load",
+      "prompt_text": "If a mild steel I-beam is ten inches thick and twenty feet long, and supported rigidly on each end, about how much weight could be placed on its center point before it exhibited inelastic strain?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Summarization task involving chemistry.",
+      "name": "summarize:lithium_solvent",
+      "prompt_text": "Summarize the following into one sentence: \"Lithium is a metal that does not readily dissolve in most solvents. However, it can be dissolved in some organic solvents such as diethyl ether, tetrahydrofuran (THF), and diglyme. These solvents have a high polarity and a relatively low boiling point, which allows them to dissolve lithium salts and other compounds containing lithium. Other solvents that can dissolve lithium include acetonitrile, dimethyl sulfoxide (DMSO), and water. It should be noted that the solubility of lithium in these solvents depends on various factors such as temperature, pressure, and the presence of other compounds.\""
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Summarization task involving sequence of events.",
+      "name": "summarize:bob_and_dog",
+      "prompt_text": "Summarize the following into one sentence: \"Bob was a boy.  Bob had a dog.  Bob and his dog went for a walk.  Bob and his dog walked to the park.  At the park, Bob threw a stick and his dog brought it back to him.  The dog chased a squirrel, and Bob ran after him.  Bob got his dog back and they walked home together.\""
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Reflect on the moral relationship between the Constitution and the people.",
+      "name": "politics:constitutional_values",
+      "prompt_text": "Do you think the American Constitution reflects the mores and values of all Americans?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Consider the problem of universal justice.",
+      "name": "politics:equality",
+      "prompt_text": "If American laws and policies accurately implemented the directives of the American Constitution, and people were thus treated as equals, would they feel the system was treating them justly?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Compare and contrast the value of nuclear and biological weapons as deterrents",
+      "name": "politics:nuclear_deterrence",
+      "prompt_text": "Why are nuclear weapons a more effective deterrent than biological weapons, when those biological weapons are more lethal than nuclear weapons?"
+   },
+   {
+      "attribution": "u/ttkciar",
+      "description": "Explain subjective interpretation of Giger art.",
+      "name": "aesthetics:giger",
+      "prompt_text": "Some people are repelled by H.R. Giger's artwork, while others are fascinated by it.  How do you explain these differing reactions?"
+   }
+]
+
